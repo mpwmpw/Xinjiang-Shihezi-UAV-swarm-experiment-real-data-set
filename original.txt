@@ -1,9 +1,7 @@
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
-/*
-*输入随机数列元素个数,自动生成并排序
-*/
+
 using namespace std;
 
 int speedSort(int* p,int *low,int* high);
